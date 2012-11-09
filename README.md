@@ -10,11 +10,11 @@ After downloading the files as .zip, just drag and drop Opera window. Theme will
 
 #Turkish:
 
-Kullanmadan önce:
-Bu tema Opera 12 ve daha üst sürümler için hazırlanmıştır. Kullanmadan önce Opera 12+ sürüm kullandığınızdan emin olun.
+Kullanmadan Ã¶nce:
+Bu tema Opera 12 ve daha Ã¼st sÃ¼rÃ¼mler iÃ§in hazÄ±rlanmÄ±ÅŸtÄ±r. Kullanmadan Ã¶nce Opera 12+ sÃ¼rÃ¼m kullandÄ±ÄŸÄ±nÄ±zdan emin olun.
 
 Kurulum:
-Dosyaları .zip dosya formatında indirdikten sonra doğrudan sürükle bırak yöntemi ile Opera ekranına bırakın. Tema otomatik olarak çalışacaktır.
+DosyalarÄ± .zip dosya formatÄ±nda indirdikten sonra doÄŸrudan sÃ¼rÃ¼kle bÄ±rak yÃ¶ntemi ile Opera ekranÄ±na bÄ±rakÄ±n. Tema otomatik olarak Ã§alÄ±ÅŸacaktÄ±r.
 
 #Links
 [Opera Addon Cataloque](http://addons.opera.com/)
